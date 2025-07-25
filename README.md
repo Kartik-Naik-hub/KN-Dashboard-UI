@@ -16,25 +16,6 @@ A modern and responsive admin dashboard built using React, Tailwind CSS, Vite, a
 
 🌙 Dark/Light Mode support
 
-📁 Modular Folder Structure
-
-📂 Project Structure
-bash
-Copy
-Edit
-dashboard-ui-design/
-├── public/
-├── src/
-│   ├── assets/           # Logo and image files
-│   ├── components/       # Reusable UI components (Sidebar, Header, Cards, etc.)
-│   ├── pages/            # Dashboard Pages
-│   ├── App.jsx           # Main app layout
-│   └── main.jsx          # Vite entry point
-├── tailwind.config.js
-├── vite.config.js
-├── package.json
-└── README.md
-
 📸 Screenshots
 
 ![KN Dashboard Screenshot](./preview-light.png)
